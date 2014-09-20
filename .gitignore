@@ -1,0 +1,5 @@
+*.o
+*.xcodeproj
+*.xcworkspace
+
+src/tcp-echo-server/tcp-echo-server
